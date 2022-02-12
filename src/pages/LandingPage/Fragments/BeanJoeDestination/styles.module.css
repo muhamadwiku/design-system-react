@@ -1,0 +1,61 @@
+img {
+  width: 100%;
+}
+
+.container {
+  margin: -0.4rem;
+}
+
+.container > article > h1 {
+  color: #ffff;
+  font-size: 12rem;
+  margin: 0rem;
+}
+
+.container > article > div {
+  width: 70%;
+}
+
+.container > article > div > span {
+  font-size: 1rem;
+  color: #ffff;
+}
+
+.text_mountain {
+  position: absolute;
+  top: 30rem;
+  left: 13rem;
+  text-align: left;
+}
+
+.text_sawah {
+  position: absolute;
+  top: 104rem;
+  left: 42rem;
+  text-align: left;
+}
+
+.text_danau {
+  position: absolute;
+  top: 163rem;
+  left: 13rem;
+  text-align: left;
+}
+
+.dec_moutain {
+  position: absolute;
+  top: 59rem;
+  right: 0rem;
+}
+
+.dec_sawah {
+  position: absolute;
+  top: 119rem;
+  left: 10rem;
+}
+
+.dec_danau {
+  position: absolute;
+  top: 165rem;
+  right: 5rem;
+}

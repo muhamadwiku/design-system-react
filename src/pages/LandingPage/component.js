@@ -1,9 +1,10 @@
 import React from 'react';
+import ButtonSteps from '../ButtonSteps';
 
 export default function Componet() {
-  return(
+  return (
     <section>
-      ini adalah home
+      <ButtonSteps/>
     </section>
   );
 };
